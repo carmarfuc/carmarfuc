@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, world!👋 </h1>
-<h1 align="center">  Here I’m, Mariano Fuchilieri, saying this</h1>
+<h1 align="center">  Here I’am, Mariano Fuchilieri, saying this</h1>
 
 
 - 🔭 I’m currently working on my personal project, improving myself with...
@@ -7,7 +7,7 @@
 - 👯 .... looking to collaborate in a group with my experience
 - 🤔 .... looking for a job where the passion for development is like mine
 - 💬 Ask me about ...
-<p align="left"> 
+<p align="left" background-color="#ffff00"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
