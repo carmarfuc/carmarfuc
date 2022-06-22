@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, world!👋 </h1>
-<h1 align="center">  Here I’am, Mariano Fuchilieri, saying this</h1>
+<h1 align="center">  Here I am, Mariano Fuchilieri, saying this</h1>
 
 
 - 🔭 I’m currently working on my personal project, improving myself with...
@@ -7,7 +7,7 @@
 - 👯 .... looking to collaborate in a group with my experience
 - 🤔 .... looking for a job where the passion for development is like mine
 - 💬 Ask me about ...
-<p align="left" > 
+<p align="left" style="background-color:#374b61"> 
 <a href="https://getbootstrap.com" target="_blank" > 
     <img src="img/bootstrap-plain-wordmark.svg" 
     alt="bootstrap" width="40" 
