@@ -57,7 +57,7 @@
 
 - 📫 How to reach me: ...
 <p>LinkedIn <img src="img/linkedIn.jpg" alt="LinkedIn" width="40" height="40"/><a href="https://www.linkedin.com/in/mariano-fuchilieri-278b3027/" target="_blank"> </a></p>
-<h3>Gmail <img src="img/linkedIn.jpg" alt="LinkedIn" width="40" height="40"/><a href="https://github.com/devicons/devicon/github" target="_blank"> </a> </h3>
+<p>Gmail <img src="img/linkedIn.jpg" alt="LinkedIn" width="40" height="40"/><a href="https://github.com/devicons/devicon/github" target="_blank"> </a> </p>
 
 
 
